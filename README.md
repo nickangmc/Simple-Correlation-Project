@@ -4,6 +4,7 @@
 
 This is a small study to identify the correlations between social benefits, specifically Department of Social Services (DSS) payments, and crime offences rate in Victoria. DDS payments are benefits or helps allocated by the government to specific groups of residents, for example, in forms of age pensions, youth allowance, low income card, etc. Finding the appropriate correlations could potentially help the government to better manage their funds and policies in hope of minimizing the offence rate of the local communities.
 
+
 #### A Heatmap showing all the correlations between different types of social benefits vs crime rate in Victoria: 
 ![correlation-heatmap](https://raw.githubusercontent.com/nickangmc/social-benefits-vs-crime-rate/master/Visualizations/correlation-heatmap-between-social-benefits-and-crime.png)
 
