@@ -1,6 +1,6 @@
-##Social Benefits and Crime Rate in Victoria
+## Social Benefits and Crime Rate in Victoria
 
-####"Can the rate of offences be reduced by giving helps and benefits through social programs to those in need?"
+#### "Can the rate of offences be reduced by giving helps and benefits through social programs to those in need?"
 
 This is a small study to identify the correlations between social benefits, specifically Department of Social Services (DSS) payments, and crime offences rate in Victoria. DDS payments are benefits or helps allocated by the government to specific groups of residents, for example, in forms of age pensions, youth allowance, low income card, etc. Finding the appropriate correlations could potentially help the government to better manage their funds and policies in hope of minimizing the offence rate of the local communities.
 
