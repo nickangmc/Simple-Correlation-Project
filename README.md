@@ -23,7 +23,7 @@ Pre-processed data were then integrated through selected data records so that di
 There were two main methods used to visualize the results: scatter plots and heatmaps.
 
 E.g.
-##### A Heatmap showing all the correlations between different types of social benefits vs crime rate in Victoria:
+##### A Heatmap showing all the correlations between different types of social benefits vs offences in Victoria:
 ![correlation-heatmap](https://raw.githubusercontent.com/nickangmc/social-benefits-vs-crime-rate/master/Visualizations/correlation-heatmap-between-social-benefits-and-crime.png)
 
 ---
