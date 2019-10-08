@@ -1,6 +1,6 @@
 ## Social Benefits and Crime Rate in Victoria
 
-This study was a part of my assessment for COMP20008: Element of Data Processing at the University of Melbourne - Semester 1, 2018. More in-depth explanations and data analyses can be found in the _"report.pdf"_ in this repo. 
+This study was a part of my assessment for COMP20008: Element of Data Processing at the University of Melbourne - Semester 1, 2018. More in-depth explanations and data analyses can be found in the [_report_](https://github.com/nickangmc/social-benefits-vs-crime-rate/blob/master/Report.pdf) in this repo. 
 
 ### Goal
 
